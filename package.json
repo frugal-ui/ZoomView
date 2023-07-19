@@ -1,0 +1,22 @@
+{
+  "name": "@frugal-ui/zoomview",
+  "version": "1.0.0-beta1",
+  "description": "Control a BindableObject&lt;number> for zooming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frugal-ui/ZoomView.git"
+  },
+  "author": "viridian035",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frugal-ui/ZoomView/issues"
+  },
+  "homepage": "https://github.com/frugal-ui/ZoomView#readme",
+  "dependencies": {
+    "@frugal-ui/base": "^1.0.0-beta13"
+  }
+}
