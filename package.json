@@ -1,6 +1,6 @@
 {
   "name": "@frugal-ui/zoomview",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Control a BindableObject&lt;number> for zooming.",
   "main": "index.js",
   "scripts": {
